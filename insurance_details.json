@@ -1,0 +1,902 @@
+[
+    {
+        "patient_id": 1,
+        "insurance_details": {
+            "provider": "Myers and Sons Health Insurance Co.",
+            "policy_number": "HIC043640285",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2028-06-24"
+        }
+    },
+    {
+        "patient_id": 2,
+        "insurance_details": {
+            "provider": "Mayer and Sons Health Insurance Co.",
+            "policy_number": "HIC713028167",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2029-05-03"
+        }
+    },
+    {
+        "patient_id": 3,
+        "insurance_details": {
+            "provider": "Cole, Brown and Watson Health Insurance Co.",
+            "policy_number": "HIC107989143",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2027-03-25"
+        }
+    },
+    {
+        "patient_id": 4,
+        "insurance_details": {
+            "provider": "Owen-Webb Health Insurance Co.",
+            "policy_number": "HIC645162455",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2027-10-23"
+        }
+    },
+    {
+        "patient_id": 5,
+        "insurance_details": {
+            "provider": "Warner and Sons Health Insurance Co.",
+            "policy_number": "HIC456338483",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2029-02-02"
+        }
+    },
+    {
+        "patient_id": 6,
+        "insurance_details": {
+            "provider": "Moss LLC Health Insurance Co.",
+            "policy_number": "HIC799350687",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2027-09-15"
+        }
+    },
+    {
+        "patient_id": 7,
+        "insurance_details": {
+            "provider": "Green Group Health Insurance Co.",
+            "policy_number": "HIC462306142",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2026-08-23"
+        }
+    },
+    {
+        "patient_id": 8,
+        "insurance_details": {
+            "provider": "Houston, Foster and Simpson Health Insurance Co.",
+            "policy_number": "HIC579629840",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2028-12-21"
+        }
+    },
+    {
+        "patient_id": 9,
+        "insurance_details": {
+            "provider": "Barry, Johnson and Vargas Health Insurance Co.",
+            "policy_number": "HIC833863417",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2028-07-27"
+        }
+    },
+    {
+        "patient_id": 10,
+        "insurance_details": {
+            "provider": "Mitchell, King and Allen Health Insurance Co.",
+            "policy_number": "HIC178467968",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2025-09-04"
+        }
+    },
+    {
+        "patient_id": 11,
+        "insurance_details": {
+            "provider": "Riley, King and Harris Health Insurance Co.",
+            "policy_number": "HIC773004017",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2027-05-05"
+        }
+    },
+    {
+        "patient_id": 12,
+        "insurance_details": {
+            "provider": "Hutchinson, Rodriguez and Harrell Health Insurance Co.",
+            "policy_number": "HIC940067363",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2028-09-09"
+        }
+    },
+    {
+        "patient_id": 13,
+        "insurance_details": {
+            "provider": "Frazier PLC Health Insurance Co.",
+            "policy_number": "HIC184606253",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2027-09-13"
+        }
+    },
+    {
+        "patient_id": 14,
+        "insurance_details": {
+            "provider": "Farrell Group Health Insurance Co.",
+            "policy_number": "HIC136508852",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2026-11-07"
+        }
+    },
+    {
+        "patient_id": 15,
+        "insurance_details": {
+            "provider": "Warren, Gilbert and Ramos Health Insurance Co.",
+            "policy_number": "HIC494206103",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2028-03-13"
+        }
+    },
+    {
+        "patient_id": 16,
+        "insurance_details": {
+            "provider": "Shaffer, Gomez and Roth Health Insurance Co.",
+            "policy_number": "HIC084219640",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2026-03-22"
+        }
+    },
+    {
+        "patient_id": 17,
+        "insurance_details": {
+            "provider": "Myers Ltd Health Insurance Co.",
+            "policy_number": "HIC189153984",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2027-06-15"
+        }
+    },
+    {
+        "patient_id": 18,
+        "insurance_details": {
+            "provider": "Bryan Group Health Insurance Co.",
+            "policy_number": "HIC744197465",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2028-09-21"
+        }
+    },
+    {
+        "patient_id": 19,
+        "insurance_details": {
+            "provider": "Jackson-Brown Health Insurance Co.",
+            "policy_number": "HIC105591828",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2027-09-09"
+        }
+    },
+    {
+        "patient_id": 20,
+        "insurance_details": {
+            "provider": "Daniels-Watts Health Insurance Co.",
+            "policy_number": "HIC588633747",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2026-07-30"
+        }
+    },
+    {
+        "patient_id": 21,
+        "insurance_details": {
+            "provider": "Johnson-Davis Health Insurance Co.",
+            "policy_number": "HIC878074774",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2026-02-15"
+        }
+    },
+    {
+        "patient_id": 22,
+        "insurance_details": {
+            "provider": "King, Schultz and Walker Health Insurance Co.",
+            "policy_number": "HIC734101718",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2026-12-01"
+        }
+    },
+    {
+        "patient_id": 23,
+        "insurance_details": {
+            "provider": "Bowen, Hernandez and Obrien Health Insurance Co.",
+            "policy_number": "HIC856091862",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2027-10-22"
+        }
+    },
+    {
+        "patient_id": 24,
+        "insurance_details": {
+            "provider": "Weiss LLC Health Insurance Co.",
+            "policy_number": "HIC184648652",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2026-06-26"
+        }
+    },
+    {
+        "patient_id": 25,
+        "insurance_details": {
+            "provider": "Jordan, Mccarty and Hayes Health Insurance Co.",
+            "policy_number": "HIC893577163",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2028-01-04"
+        }
+    },
+    {
+        "patient_id": 26,
+        "insurance_details": {
+            "provider": "Johnson and Sons Health Insurance Co.",
+            "policy_number": "HIC729394582",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2027-11-23"
+        }
+    },
+    {
+        "patient_id": 27,
+        "insurance_details": {
+            "provider": "Cruz-Page Health Insurance Co.",
+            "policy_number": "HIC322230697",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2025-12-20"
+        }
+    },
+    {
+        "patient_id": 28,
+        "insurance_details": {
+            "provider": "Gomez, Reyes and Sweeney Health Insurance Co.",
+            "policy_number": "HIC771110672",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2026-01-06"
+        }
+    },
+    {
+        "patient_id": 29,
+        "insurance_details": {
+            "provider": "Griffin LLC Health Insurance Co.",
+            "policy_number": "HIC641283932",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2029-01-24"
+        }
+    },
+    {
+        "patient_id": 30,
+        "insurance_details": {
+            "provider": "Drake, Roberts and Jackson Health Insurance Co.",
+            "policy_number": "HIC774698102",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2026-12-15"
+        }
+    },
+    {
+        "patient_id": 31,
+        "insurance_details": {
+            "provider": "Rose Ltd Health Insurance Co.",
+            "policy_number": "HIC477775561",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2026-08-27"
+        }
+    },
+    {
+        "patient_id": 32,
+        "insurance_details": {
+            "provider": "Perez-Woodard Health Insurance Co.",
+            "policy_number": "HIC329431397",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2029-06-19"
+        }
+    },
+    {
+        "patient_id": 33,
+        "insurance_details": {
+            "provider": "Frost PLC Health Insurance Co.",
+            "policy_number": "HIC343455782",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2029-06-08"
+        }
+    },
+    {
+        "patient_id": 34,
+        "insurance_details": {
+            "provider": "Le-Burns Health Insurance Co.",
+            "policy_number": "HIC118958604",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2026-12-28"
+        }
+    },
+    {
+        "patient_id": 35,
+        "insurance_details": {
+            "provider": "Nicholson, White and Cobb Health Insurance Co.",
+            "policy_number": "HIC003436724",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2027-12-01"
+        }
+    },
+    {
+        "patient_id": 36,
+        "insurance_details": {
+            "provider": "Casey, Morrow and Walker Health Insurance Co.",
+            "policy_number": "HIC446166875",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2025-10-24"
+        }
+    },
+    {
+        "patient_id": 37,
+        "insurance_details": {
+            "provider": "Lowery-Phelps Health Insurance Co.",
+            "policy_number": "HIC753606784",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2027-05-04"
+        }
+    },
+    {
+        "patient_id": 38,
+        "insurance_details": {
+            "provider": "House, Harris and Hardy Health Insurance Co.",
+            "policy_number": "HIC584388700",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2025-09-12"
+        }
+    },
+    {
+        "patient_id": 39,
+        "insurance_details": {
+            "provider": "Cox-Orozco Health Insurance Co.",
+            "policy_number": "HIC681007166",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2025-10-15"
+        }
+    },
+    {
+        "patient_id": 40,
+        "insurance_details": {
+            "provider": "Castillo, Rogers and Cross Health Insurance Co.",
+            "policy_number": "HIC371438762",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2028-10-01"
+        }
+    },
+    {
+        "patient_id": 41,
+        "insurance_details": {
+            "provider": "Anderson and Sons Health Insurance Co.",
+            "policy_number": "HIC534327813",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2027-10-07"
+        }
+    },
+    {
+        "patient_id": 42,
+        "insurance_details": {
+            "provider": "Tucker and Sons Health Insurance Co.",
+            "policy_number": "HIC613185736",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2028-04-08"
+        }
+    },
+    {
+        "patient_id": 43,
+        "insurance_details": {
+            "provider": "Browning-Hood Health Insurance Co.",
+            "policy_number": "HIC693696475",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2027-06-16"
+        }
+    },
+    {
+        "patient_id": 44,
+        "insurance_details": {
+            "provider": "Moore, Mitchell and Gibson Health Insurance Co.",
+            "policy_number": "HIC121199973",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2026-07-03"
+        }
+    },
+    {
+        "patient_id": 45,
+        "insurance_details": {
+            "provider": "Wilson, Green and Martin Health Insurance Co.",
+            "policy_number": "HIC943753558",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2028-03-24"
+        }
+    },
+    {
+        "patient_id": 46,
+        "insurance_details": {
+            "provider": "Johnson, Alvarez and Mayo Health Insurance Co.",
+            "policy_number": "HIC293264536",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2027-10-16"
+        }
+    },
+    {
+        "patient_id": 47,
+        "insurance_details": {
+            "provider": "Zamora LLC Health Insurance Co.",
+            "policy_number": "HIC929078103",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2027-11-26"
+        }
+    },
+    {
+        "patient_id": 48,
+        "insurance_details": {
+            "provider": "Shannon Group Health Insurance Co.",
+            "policy_number": "HIC217264883",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2026-01-21"
+        }
+    },
+    {
+        "patient_id": 49,
+        "insurance_details": {
+            "provider": "Flores Group Health Insurance Co.",
+            "policy_number": "HIC260532442",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2028-03-12"
+        }
+    },
+    {
+        "patient_id": 50,
+        "insurance_details": {
+            "provider": "Edwards, Phillips and Collier Health Insurance Co.",
+            "policy_number": "HIC462850634",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2029-05-15"
+        }
+    },
+    {
+        "patient_id": 51,
+        "insurance_details": {
+            "provider": "Cunningham PLC Health Insurance Co.",
+            "policy_number": "HIC033790156",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2027-04-15"
+        }
+    },
+    {
+        "patient_id": 52,
+        "insurance_details": {
+            "provider": "Thomas PLC Health Insurance Co.",
+            "policy_number": "HIC707896574",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2029-07-21"
+        }
+    },
+    {
+        "patient_id": 53,
+        "insurance_details": {
+            "provider": "Allen, Johnson and Lang Health Insurance Co.",
+            "policy_number": "HIC287272808",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2028-09-26"
+        }
+    },
+    {
+        "patient_id": 54,
+        "insurance_details": {
+            "provider": "Bridges LLC Health Insurance Co.",
+            "policy_number": "HIC444837347",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2028-03-13"
+        }
+    },
+    {
+        "patient_id": 55,
+        "insurance_details": {
+            "provider": "Cunningham, May and Beard Health Insurance Co.",
+            "policy_number": "HIC358814947",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2027-09-25"
+        }
+    },
+    {
+        "patient_id": 56,
+        "insurance_details": {
+            "provider": "Silva-Barnett Health Insurance Co.",
+            "policy_number": "HIC689323003",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2029-08-07"
+        }
+    },
+    {
+        "patient_id": 57,
+        "insurance_details": {
+            "provider": "Rivas-Wolfe Health Insurance Co.",
+            "policy_number": "HIC893587797",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2029-06-13"
+        }
+    },
+    {
+        "patient_id": 58,
+        "insurance_details": {
+            "provider": "Fowler, Taylor and Estrada Health Insurance Co.",
+            "policy_number": "HIC988586512",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2026-04-11"
+        }
+    },
+    {
+        "patient_id": 59,
+        "insurance_details": {
+            "provider": "Figueroa-Pham Health Insurance Co.",
+            "policy_number": "HIC217695733",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2028-04-18"
+        }
+    },
+    {
+        "patient_id": 60,
+        "insurance_details": {
+            "provider": "Duffy, Hamilton and Maldonado Health Insurance Co.",
+            "policy_number": "HIC795865129",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2025-11-07"
+        }
+    },
+    {
+        "patient_id": 61,
+        "insurance_details": {
+            "provider": "Miller Group Health Insurance Co.",
+            "policy_number": "HIC949156066",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2029-05-10"
+        }
+    },
+    {
+        "patient_id": 62,
+        "insurance_details": {
+            "provider": "Johnson-Alexander Health Insurance Co.",
+            "policy_number": "HIC098431215",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2028-05-08"
+        }
+    },
+    {
+        "patient_id": 63,
+        "insurance_details": {
+            "provider": "Rivers-Hernandez Health Insurance Co.",
+            "policy_number": "HIC694840932",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2029-08-05"
+        }
+    },
+    {
+        "patient_id": 64,
+        "insurance_details": {
+            "provider": "Moore and Sons Health Insurance Co.",
+            "policy_number": "HIC966836388",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2026-10-30"
+        }
+    },
+    {
+        "patient_id": 65,
+        "insurance_details": {
+            "provider": "Kennedy-Mills Health Insurance Co.",
+            "policy_number": "HIC889352071",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2028-01-26"
+        }
+    },
+    {
+        "patient_id": 66,
+        "insurance_details": {
+            "provider": "Carter Inc Health Insurance Co.",
+            "policy_number": "HIC613131319",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2029-02-02"
+        }
+    },
+    {
+        "patient_id": 67,
+        "insurance_details": {
+            "provider": "Rodriguez PLC Health Insurance Co.",
+            "policy_number": "HIC576416809",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2029-07-11"
+        }
+    },
+    {
+        "patient_id": 68,
+        "insurance_details": {
+            "provider": "Howell, Cohen and Warren Health Insurance Co.",
+            "policy_number": "HIC819417537",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2028-02-21"
+        }
+    },
+    {
+        "patient_id": 69,
+        "insurance_details": {
+            "provider": "Johnson and Sons Health Insurance Co.",
+            "policy_number": "HIC242468566",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2027-10-15"
+        }
+    },
+    {
+        "patient_id": 70,
+        "insurance_details": {
+            "provider": "Fritz and Sons Health Insurance Co.",
+            "policy_number": "HIC149220411",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2026-07-22"
+        }
+    },
+    {
+        "patient_id": 71,
+        "insurance_details": {
+            "provider": "Shaw-Williams Health Insurance Co.",
+            "policy_number": "HIC380738298",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2026-11-28"
+        }
+    },
+    {
+        "patient_id": 72,
+        "insurance_details": {
+            "provider": "Snyder-English Health Insurance Co.",
+            "policy_number": "HIC960941381",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2028-06-26"
+        }
+    },
+    {
+        "patient_id": 73,
+        "insurance_details": {
+            "provider": "Reyes-Leonard Health Insurance Co.",
+            "policy_number": "HIC446408934",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2026-03-04"
+        }
+    },
+    {
+        "patient_id": 74,
+        "insurance_details": {
+            "provider": "Russell-Williams Health Insurance Co.",
+            "policy_number": "HIC018044727",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2028-09-01"
+        }
+    },
+    {
+        "patient_id": 75,
+        "insurance_details": {
+            "provider": "Carroll and Sons Health Insurance Co.",
+            "policy_number": "HIC959294133",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2029-05-16"
+        }
+    },
+    {
+        "patient_id": 76,
+        "insurance_details": {
+            "provider": "Lopez Ltd Health Insurance Co.",
+            "policy_number": "HIC438172046",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2027-10-28"
+        }
+    },
+    {
+        "patient_id": 77,
+        "insurance_details": {
+            "provider": "Velasquez-Chambers Health Insurance Co.",
+            "policy_number": "HIC261686135",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2027-06-27"
+        }
+    },
+    {
+        "patient_id": 78,
+        "insurance_details": {
+            "provider": "Ryan-Hughes Health Insurance Co.",
+            "policy_number": "HIC879312636",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2026-04-09"
+        }
+    },
+    {
+        "patient_id": 79,
+        "insurance_details": {
+            "provider": "Welch LLC Health Insurance Co.",
+            "policy_number": "HIC636451423",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2026-02-13"
+        }
+    },
+    {
+        "patient_id": 80,
+        "insurance_details": {
+            "provider": "Day-Bray Health Insurance Co.",
+            "policy_number": "HIC660240221",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2029-03-23"
+        }
+    },
+    {
+        "patient_id": 81,
+        "insurance_details": {
+            "provider": "Lee Inc Health Insurance Co.",
+            "policy_number": "HIC438381904",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2027-11-15"
+        }
+    },
+    {
+        "patient_id": 82,
+        "insurance_details": {
+            "provider": "Chambers LLC Health Insurance Co.",
+            "policy_number": "HIC576943259",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2028-12-12"
+        }
+    },
+    {
+        "patient_id": 83,
+        "insurance_details": {
+            "provider": "Barrett, Peterson and Reed Health Insurance Co.",
+            "policy_number": "HIC880684380",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2026-07-29"
+        }
+    },
+    {
+        "patient_id": 84,
+        "insurance_details": {
+            "provider": "White-Garcia Health Insurance Co.",
+            "policy_number": "HIC727971575",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2028-11-10"
+        }
+    },
+    {
+        "patient_id": 85,
+        "insurance_details": {
+            "provider": "Lopez Group Health Insurance Co.",
+            "policy_number": "HIC983556373",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2027-01-28"
+        }
+    },
+    {
+        "patient_id": 86,
+        "insurance_details": {
+            "provider": "Ray Group Health Insurance Co.",
+            "policy_number": "HIC213271037",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2029-01-17"
+        }
+    },
+    {
+        "patient_id": 87,
+        "insurance_details": {
+            "provider": "Phillips, Jones and Riddle Health Insurance Co.",
+            "policy_number": "HIC173982155",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2025-11-16"
+        }
+    },
+    {
+        "patient_id": 88,
+        "insurance_details": {
+            "provider": "Baird-Lee Health Insurance Co.",
+            "policy_number": "HIC420568150",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2027-11-19"
+        }
+    },
+    {
+        "patient_id": 89,
+        "insurance_details": {
+            "provider": "Lyons, Hunter and Smith Health Insurance Co.",
+            "policy_number": "HIC567422033",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2025-11-08"
+        }
+    },
+    {
+        "patient_id": 90,
+        "insurance_details": {
+            "provider": "Martin and Sons Health Insurance Co.",
+            "policy_number": "HIC906910933",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2029-05-12"
+        }
+    },
+    {
+        "patient_id": 91,
+        "insurance_details": {
+            "provider": "Haas and Sons Health Insurance Co.",
+            "policy_number": "HIC371352904",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2026-09-30"
+        }
+    },
+    {
+        "patient_id": 92,
+        "insurance_details": {
+            "provider": "Campbell Inc Health Insurance Co.",
+            "policy_number": "HIC802203529",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2029-05-29"
+        }
+    },
+    {
+        "patient_id": 93,
+        "insurance_details": {
+            "provider": "Bennett-Hart Health Insurance Co.",
+            "policy_number": "HIC670544171",
+            "coverage": "Full coverage with $10 copay for general check-ups.",
+            "expiration_date": "2025-09-24"
+        }
+    },
+    {
+        "patient_id": 94,
+        "insurance_details": {
+            "provider": "White Inc Health Insurance Co.",
+            "policy_number": "HIC886102073",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2026-07-27"
+        }
+    },
+    {
+        "patient_id": 95,
+        "insurance_details": {
+            "provider": "Ho, Allen and Taylor Health Insurance Co.",
+            "policy_number": "HIC123360531",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2027-10-12"
+        }
+    },
+    {
+        "patient_id": 96,
+        "insurance_details": {
+            "provider": "Cunningham, Alexander and Wilkinson Health Insurance Co.",
+            "policy_number": "HIC635042334",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2025-12-06"
+        }
+    },
+    {
+        "patient_id": 97,
+        "insurance_details": {
+            "provider": "Morales, Jensen and Wiley Health Insurance Co.",
+            "policy_number": "HIC286928190",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2026-02-05"
+        }
+    },
+    {
+        "patient_id": 98,
+        "insurance_details": {
+            "provider": "Owens, Ford and Snyder Health Insurance Co.",
+            "policy_number": "HIC886930291",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2027-01-19"
+        }
+    },
+    {
+        "patient_id": 99,
+        "insurance_details": {
+            "provider": "Dean PLC Health Insurance Co.",
+            "policy_number": "HIC327652901",
+            "coverage": "Full coverage with $20 copay per visit.",
+            "expiration_date": "2027-01-25"
+        }
+    },
+    {
+        "patient_id": 100,
+        "insurance_details": {
+            "provider": "Collier-Moran Health Insurance Co.",
+            "policy_number": "HIC794743335",
+            "coverage": "Partial coverage with $50 copay per visit.",
+            "expiration_date": "2028-10-09"
+        }
+    }
+]
